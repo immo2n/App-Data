@@ -1,4 +1,4 @@
 {
-    "enable": false,
-    "message": "This app needs core updates, please update the libraries first! Do it bitch."
+    "enable": true,
+    "message": "N/A"
   }
